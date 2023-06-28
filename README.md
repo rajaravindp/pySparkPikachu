@@ -22,3 +22,7 @@ Key features of the code base include:
 The provided code demonstrates the use of fundamental PySpark operations like map, reduceByKey, filter, distinct, and more. It serves as a valuable resource for learning PySpark and understanding how to efficiently process and analyze large datasets.
 
 Feel free to explore the codebase, adapt it to your requirements, or use it as a reference to enhance your PySpark skills and tackle similar data analysis tasks.
+
+To run the .py file in your local windows machine execute the following template compand: 
+spark-submit --master local[*] my_script.py
+Before you do so, ensure spark is installed and configured, winutils is installed and added to path. 
