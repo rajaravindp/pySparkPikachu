@@ -23,6 +23,6 @@ The provided code demonstrates the use of fundamental PySpark operations like ma
 
 Feel free to explore the codebase, adapt it to your requirements, or use it as a reference to enhance your PySpark skills and tackle similar data analysis tasks.
 
-To run the .py file in your local windows machine execute the following template compand: 
+To run the .py file in your local windows machine execute the following template compand: <br>
 spark-submit --master local[*] my_script.py <br>
 Before you do so, ensure spark is installed and configured, winutils is installed and added to path. 
