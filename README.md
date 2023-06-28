@@ -18,7 +18,7 @@ Key features of the code base include:
 - Calculating the average marks scored per course.
 - Identifying the maximum and minimum marks achieved by course.
 - Computing the average age of male students.
-- The provided code demonstrates the use of fundamental PySpark operations like map, reduceByKey, filter, distinct, and more. It serves as a valuable resource for learning PySpark and understanding how to efficiently process and analyze large datasets.
 
-Feel free to explore the code, adapt it to your specific requirements, or use it as a reference to enhance your PySpark skills and tackle similar data analysis tasks.
+The provided code demonstrates the use of fundamental PySpark operations like map, reduceByKey, filter, distinct, and more. It serves as a valuable resource for learning PySpark and understanding how to efficiently process and analyze large datasets.
 
+Feel free to explore the codebase, adapt it to your requirements, or use it as a reference to enhance your PySpark skills and tackle similar data analysis tasks.
