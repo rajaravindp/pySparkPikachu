@@ -1,5 +1,5 @@
 # pySparkPilot
-PySpark Project: Demonstrating Data Analysis and Processing using Apache Spark RDDs
+PySpark Project: Demonstrating Data Analysis and Processing using Apache Spark RDDs - Part I
 
 The code showcases a myriad of pyspark ops performed on studentData dataset available down in the codebase. 
 
